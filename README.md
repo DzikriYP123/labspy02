@@ -1,6 +1,7 @@
 # labspy02
 Tugas Praktiikum 2
-AMA    : DZIKRI YANUAR PAMUNGKAS
+
+NAMA    : DZIKRI YANUAR PAMUNGKAS
 
 NIM     : 352311124
 
