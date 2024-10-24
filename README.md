@@ -28,4 +28,3 @@ mencari bilangan terbesar dari 3 bilangan
 ![App Screenshot](./2.png)
 
 
-# kredit by Dzikri Yanuar Pamungkas
